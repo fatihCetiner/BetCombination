@@ -7,5 +7,6 @@
     <string name="enterNumber">1 veya 3 arasında rakam girin</string>
     <string name="calculate">Hesapla</string>
     <string name="lorem">Henüz Hesaplama Yok !</string>
+    <string name="count">Adet sonuç var</string>
     <string name="errorMsg">Geçersiz giriş ! Lütfen 1 ile 3 arasında bir rakam girin.</string>
 </resources>

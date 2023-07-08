@@ -50,6 +50,8 @@ class CalculateFragment : Fragment() {
                 }
 
                 binding.resultTextView.text = outputText.toString()
+                val count = combinations.size
+                binding.countTextView.text = "${count} Adet Kombinasyon var."
                 binding.resultTextView.setTextIsSelectable(true)
             } else {
                 binding.resultTextView.text =
