@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BetCombination</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="goFragment">Hesaplamak İçin Tıkla</string>
+    <string name="enterNumber">1 veya 3 arasında rakam girin</string>
+    <string name="calculate">Hesapla</string>
+    <string name="lorem">Henüz Hesaplama Yok !</string>
+    <string name="errorMsg">Geçersiz giriş ! Lütfen 1 ile 3 arasında bir rakam girin.</string>
+</resources>
